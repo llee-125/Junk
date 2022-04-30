@@ -1,16 +1,14 @@
-# Junk is never Junk Really, Just someones treasurers
+# Junk
 
-##This is a test to see if it takes place--this is a typo!
+##  This is a testing to see if it takes place--this is a typo!
 
-Dan dfkns;ortiuwapofhasfnsa;l ciwnrw
-s;fhasp riqefihw 
-fsa;dl ricapsoraiwh
-d zx.djfh acl4ru'vcxpqwf
-n; ire ldesfhapositr wsarefhwasfe
+- ALWAYS PULL FROM MAIN BRANCH
+- EDIT THIS FILE!!!
 
-
+The file should
+have this code
+in it
+because it works
 
 - Daniel has changed some code.......
-
-Louise is here!
 
